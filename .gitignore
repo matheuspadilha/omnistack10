@@ -1,0 +1,20 @@
+# idea
+.idea/
+.vscode/
+
+# dependencies
+backend/node_modules/*
+mobile/node_modules/*
+web/node_modules/*
+
+#dotenv
+backend/.env
+mobile/.env
+web/.env
+
+backend/yarn.lock
+mobile/yarn.lock
+web/yarn.lock
+
+mobile/.expo/
+mobile/.expo-shared/
